@@ -3,7 +3,7 @@
 Considérons un cas de Test simple :
    - Accédez au Site de démonstration: https://opensource-demo.orangehrmlive.com/ à travers un parametre "Browser" pour indiquer le types de navigateur(Chrome, Edge) qui lance le site web
 
-## Quelles sont les conditions préalables pour l'exécution de notre projet ? :
+## Quelles sont les conditions préalables pour l'exécution de notre cas de test ? :
 - L'installation de Jenkins
 - la configuration de jenkins
 - l'installations des plugins nécessaire (Configuration de plugin maven dans Jenkin, Git, JDK ...)
