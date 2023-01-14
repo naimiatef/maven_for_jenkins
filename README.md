@@ -1,7 +1,7 @@
 # maven_for_jenkins
 ## Exercice :
 Considérons un cas de Test simple :
-   - Tout d’abord, accédez au Site de démonstration: https://opensource-demo.orangehrmlive.com/ à travers un parametre "Browser" pour indiquer le types de navigateur(Chrome, Edge) qui lance le site web
+   - Accédez au Site de démonstration: https://opensource-demo.orangehrmlive.com/ à travers un parametre "Browser" pour indiquer le types de navigateur(Chrome, Edge) qui lance le site web
 
 ## Quelles sont les conditions préalables pour l'exécution de notre projet ? :
 - L'installation de Jenkins
