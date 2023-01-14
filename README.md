@@ -5,6 +5,8 @@
 - la configuration de jenkins
 - l'installations des plugins nécessaire (Configuration de plugin maven dans Jenkin, Git, JDK ...)
 - Création d'un projet maven dans Jenkins (New Job)
+- 
+![image](https://user-images.githubusercontent.com/7100940/212469834-2028b4f5-2e6d-4baf-857a-cfa31e0cb8d6.png)
 
 ## Configuration de notre projet Maven dans Jenkins ? :
 - Tout d’abord, donnez le chemin relatif de pom.xml dans la zone de texte POM racine, car nous avons le pom.xml à la racine du projet, nous avons donc directement fourni le nom du fichier.
